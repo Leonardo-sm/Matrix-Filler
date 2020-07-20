@@ -23,7 +23,7 @@
 
 ### Como utilizar o programa:
 
-    Isira na caixa de texto o tamnho da matrix ex: 3x3
+    Insira na caixa de texto o tamnho da matrix ex: 3x3
     
     Apos isso é so clicar no botão criar peça e inserir o tamanho da peça ex: 2x2 insiria um numero de peças que prencham toda a matriz
     
