@@ -1,9 +1,5 @@
 package br.com.michelutti.matrices.control;
 
-//import java.util.ArrayList;
-
-//import br.com.michelutti.matrices.model.Piece;
-
 public class MatrixController {
 	
 	public int[] spliter(String size) {
