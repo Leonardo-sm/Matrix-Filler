@@ -2,7 +2,7 @@
 
 ## Um programa que recebe uma matriz bidimensional e uma lista de peças e as encaixa aleatoriamente
 
-#### Este programa foi um desafio proposto pela pushstart onde o usuario entra com os valores do tamanho da matriz, quantidade de peças e tamanho de cada uma, e o porgrama as encaixa aleatoriamente e cria tres afirmações aleatorias sobre a matriz gerada
+#### Este programa foi um desafio proposto pela pushstart onde o usuário entra com os valores do tamanho da matriz, quantidade de peças e tamanho de cada uma, e o programa as encaixa aleatoriamente e cria tres afirmações aleatorias sobre a matriz gerada.
 
 ### Download:
 
